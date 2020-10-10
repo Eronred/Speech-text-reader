@@ -21,7 +21,7 @@
 # Speech Text Reader [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://speech-text-reader-eronred.netlify.app/)
 
 
-You can reach the website from here: [![On Store](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://play.google.com/store/apps/details?id=com.deveu.copus.app)
+You can reach the website from here: [![On Store](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://speech-text-reader-eronred.netlify.app)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/43992376/95654956-9c04b780-0b0c-11eb-8d71-98ee0d18dc02.gif)
 
